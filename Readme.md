@@ -12,7 +12,8 @@ cargo run
 to run the project.
 
 # Notes
-If you have any corrections or code improvements don't be afraid to open an issue or Pull Request
+If you have any corrections or code improvements don't be afraid to open an issue or Pull Request. 
+I'll try to keep this repository up to date with the latest egui version.
 
 # Credits
 Photo by Ilia Bronskiy on Unsplash
